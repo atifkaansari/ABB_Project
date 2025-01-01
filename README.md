@@ -21,12 +21,8 @@ Uygulamamızı kullanmak için 2 farklı yolumuz vardır:
 	2.1: Microsoft Word Uygulaması ile metninizi açınız.
 	2.2: Sol üstteki "Dosya" butonuna tıklayınız.
 	2.3: Sol alttan "Seçenekler" butonuna tıklayın.
-	2.4: "Şeridi Özelleştir" sekmesini açınız sağ taraftaki tablodan "Geliştirici" seçeneğinin
-yanındaki kutuyu işaretleyin ve "Tamam"a tıklayarak kapatın.
+	2.4: "Şeridi Özelleştir" sekmesini açınız sağ taraftaki tablodan "Geliştirici" seçeneğinin yanındaki kutuyu işaretleyin ve "Tamam"a tıklayarak kapatın.
 	2.5: Üstteki menüden "Geliştirici" sekmesini açınız. Sol taraftaki "Visual Basic" butonuna tıklayın.
-	2.6: Zip Dosyası içerisindeki "KisaltmaEslestirme.bas" dosyasını sol taraftaki "normal" yazan yere
-sürükleyip bıraklınız, Modules klasörü içerisinde NewMakros Dosyası gelecektir.
-	2.7: NewMakros yazan dosyayı çift tıklayarak açınız. "Sabit Excel dosya yolunu belirtin" kısmında
-excelPath = "Dosyakonumu/kisaltmalar.xlsx" dosya konumunu giriniz ve yukarıda bulunan yeşil çalıştırma butonuna
-veya F5'e tıklayarak makroyu çalıştırabilirsiniz.
+	2.6: Zip Dosyası içerisindeki "KisaltmaEslestirme.bas" dosyasını sol taraftaki "normal" yazan yere sürükleyip bıraklınız, Modules klasörü içerisinde NewMakros Dosyası gelecektir.
+	2.7: NewMakros yazan dosyayı çift tıklayarak açınız. "Sabit Excel dosya yolunu belirtin" kısmında excelPath = "Dosyakonumu/kisaltmalar.xlsx" dosya konumunu giriniz ve yukarıda bulunan yeşil çalıştırma butonuna veya F5'e tıklayarak makroyu çalıştırabilirsiniz.
 	
